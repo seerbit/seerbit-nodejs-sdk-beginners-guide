@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://localhost:5000/api/standard-checkout",
+            "request": "launch",
+            "url": "http://localhost:5000/api/standard-checkout"
+        }
+    ]
+}
